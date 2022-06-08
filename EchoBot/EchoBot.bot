@@ -1,0 +1,18 @@
+{
+    "name": "EchoBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "8a157510-d76a-11ec-8f74-9f6ab24dace0",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\mdani\\Documents\\Jupyter Notebook - RS\\EchoBot\\EchoBot.bot",
+    "overrides": null
+}

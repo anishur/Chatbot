@@ -1,0 +1,32 @@
+{"intents": [
+	{"tag":"greetings",
+	 "patterns":["hello","hey","hi","good day","Greetings","what´s up?","how is it going?"],
+	 "responses":["Hello!","Hey!","Hi","What can I do for you?"]
+	},
+	{"tag":"goodby",
+	 "patterns":["cya","see you later","Goodbye","I´m leaving","Have a good day","bye","cao","see ya"],
+	 "responses":["Sad to see you later :(","Talk to you later","Goodbye!"]
+	},
+	{"tag":"age",
+	 "patterns":["how old","how old are you","what is your age","age?"],
+	 "responses":["Hello!","Hey!","Hi","What can I do for you?"]
+	},
+	{"tag":"name",
+	 "patterns":["what is your name","what should I call you","what´s your name","how are you?","can you tell your name?"],
+	 "responses":["You can call me Nural!","I´m Neural!","I´m Neural the assistant of Florian!"]
+	},
+	{"tag":"shop",
+	 "patterns":["I would like to buy something","what are your products?","what do you recommend?","what are you selling?"],
+	 "responses":["Hello!","Hey!","Hi","What can I do for you?"]
+	},
+	{"tag":"hours",
+	 "patterns":["when are you guys open","what are your hours","hours of operation"],
+	 "responses":["24/7"]
+	},
+	{"tag":"stocks",
+	 "patterns":["what stocks do I own?","how are my shares?","what companies am I investing in?"],
+	 "responses":["You own the following shares: ABBV, AAPL, FBBCD, CDDY!"]
+	}
+
+]
+}
