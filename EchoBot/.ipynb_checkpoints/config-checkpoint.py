@@ -4,8 +4,6 @@
 # In[1]:
 
 
-# https://github.com/rvinothrajendran/BotTutorialSample/blob/master/Python_tutorial/22-aihttp_azure/EchoBot/config.py
-
 
 # In[4]:
 
